@@ -2,9 +2,9 @@
 
 ## 📝 Overview
 
-This repository showcases my work on an exciting and challenging assignment completed during my learning tenure at the IEC https://iec.org.pk/. The colorful box featured here is a testament to my growing expertise in HTML and CSS, skills I honed while mastering frontend development.
+This repository showcases my work on an exciting and challenging assignment completed during my tenure at the [IEC](https://iec.org.pk/). The colorful box featured here is a testament to my growing expertise in HTML and CSS, skills I honed while mastering frontend development.
 
-### 🎨 Project Details
+## 🎨 Project Details
 
 
 
@@ -20,13 +20,13 @@ Objective: I was tasked with creating a box and applying a specific color palett
 
 Learning Outcome: This assignment significantly enhanced my frontend skills, providing hands-on knowledge of working with dimensions and seamlessly integrating HTML with CSS.
 
-### 🚀 Inspiration
+## 🚀 Inspiration
 
-This project reflects my dedication to learning and improving my technical abilities. The process of aligning colors and dimensions taught me precision and creativity, pushing me to explore the full potential of web design.🌈
+This project reflects my commitment to learning and enhancing my technical skills. The process of aligning colors and dimensions taught me precision and creativity, pushing me to explore the full potential of web design.🌈
 
-### 🙌 Acknowledgments
+## 🙌 Acknowledgments
 
-A special thanks to the IEC https://iec.org.pk/ for providing this valuable learning opportunity and guiding me through my development journey!💡
+A special thanks to the [IEC](https://iec.org.pk/) for providing this valuable learning opportunity and guiding me through my development journey!💡
 
 ### Image:📷
 
